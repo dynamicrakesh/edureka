@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(185, 38, 63);
+}
+.counter {
+    margin: 200px;
+}
+
+h1 {
+
+    font-size: 3rem;
+}
+#value {
+    font-size: 4rem;
+    font-weight: bold;
+}
+button {
+    border: 2px solid ;
+    font-size: 1.5rem;
+    border-radius: 10px;
+}
